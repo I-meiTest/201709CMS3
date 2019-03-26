@@ -51,3 +51,5 @@
     <asp:Literal ID="litPageJS" runat="server"></asp:Literal>
     <asp:Literal ID="litContentTextFooter" runat="server"></asp:Literal>
 </asp:Content>
+
+Added this new line
